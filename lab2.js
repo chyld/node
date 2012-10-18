@@ -1,4 +1,4 @@
-setTimeout(f, 3000);
+setInterval(f, 1000);
 console.log('hello');
 
 function f()
